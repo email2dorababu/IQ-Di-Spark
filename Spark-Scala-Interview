@@ -1,0 +1,38 @@
+SPARK Interview questions:
+
+Diff between interface and Abstact class
+Collections- Diff Hashmap and Concurrent Hashmap
+Ways of creating threads in Java?
+What is Synchronized, what parts of class this can be applied? (methods and statements?)
+What is compile time and run time polymorphism?
+
+
+Spark-Scala:
+What are narrow and wide transformatins?
+Diff between map and flatmap?
+What are higher order functions?
+How do you do optiomization in Spark?
+How will you check the job logs in Spark?
+what is diff between Stage and Task?
+How do you repartition the data?
+How do you allocate memory for each executor based on data?
+
+What are dataset and dataframes, what is the difference, which is efficient and why?
+What is dataset?
+Streaming-
+Why dataset are efficient to dataframe?
+Differences between spark 1.x and spark 2.x?
+
+What is the difference between reducebykey and groupbykey? which is efficient?
+
+
+Hive:
+Explain Mapside joins?
+
+
+Sqoop:
+How do you handle incremental data load?
+How to know how many rows are available in a RDBS table using sqoop?
+What is Split by and how to separate one source table data in rdbms?
+How to import one table data from RDBMS into multiple Hive tables?
+How to impoirt multiple table data into one single Hive table?
